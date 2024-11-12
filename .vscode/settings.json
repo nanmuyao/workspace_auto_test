@@ -1,0 +1,55 @@
+{
+    "workbench.colorTheme": "Sublime Monokai Adaptive",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true,
+        "diffEditor.ignoreTrimWhitespace": true,
+        "editor.rulers": [
+            80,
+            80,
+        ],
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.scrollback": 1000,
+    "terminal.integrated.persistentSessionScrollback": 1000,
+    "explorer.confirmDelete": false,
+    "editor.lineNumbers": "on",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.inlineSuggest.showToolbar": "always",
+    "workbench.preferredDarkColorTheme": "Sublime VSCode Theme",
+    "cursor.cmdk.useThemedDiffBackground": true,
+    "workbench.editorAssociations": {
+        "*.xlsx": "default"
+    },
+    "editor.semanticTokenColorCustomizations": {
+        "enabled": true // enable for all themes
+    },
+    // "window.zoomLevel": 0.7,
+    // "editor.lineHeight": 14,
+    // "editor.fontWeight": "bold",
+    "editor.renderLineHighlight": "all",
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "cSpell.userWords": [
+        "aiocron",
+        "cmdk",
+        "modbus",
+        "Monokai",
+        "mypower",
+        "powerlink",
+        "pwerlink",
+        "pytz",
+        "scrollback",
+        "venv",
+        "wangbingxin",
+        "xiaode",
+        "yapf"
+    ],
+    "workbench.activityBar.location": "top"
+    // "workbench.colorCustomizations": {
+        // "editor.background": "#FFFF" // 你想要的背景颜色
+        // "editor.background": "#1d1e19",
+		// "editor.foreground": "#363602",
+    // }
+}
